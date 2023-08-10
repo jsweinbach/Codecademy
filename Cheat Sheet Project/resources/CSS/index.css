@@ -1,0 +1,45 @@
+body {
+    width: 700px;
+    
+}
+
+.tbl {
+    position: center;
+    background-color: aquamarine;
+
+ 
+    
+}
+#pic {
+    height:500px;
+    width: 500px;
+    background-color: rgb(161, 153, 153);
+}
+#top {
+    color:blueviolet;
+}
+
+div {
+    background-color: rgb(161, 153, 153);
+}
+table {
+    text-align: center;
+    
+        font-family: Times, "Times New Roman", Georgia, serif;
+      }
+
+
+
+th {
+    border-style: solid;
+}
+td {
+    border-style: groove;
+    border-color: yellow; 
+}
+h1 {
+    background-color: coral;
+    color: white;
+    margin: 0px;
+    
+}
